@@ -20,7 +20,7 @@ getMatches = function(data) {
 }
 
 # Set to git repo here.
-TARGET_REPO = '/home/tierney/repos/libjingle/'
+TARGET_REPO = '/home/tierney/repos/SPDY-Specification/'
 
 lines=readLines(pipe(paste('cd', TARGET_REPO, '&& git log | grep Date && cd -')))
 
