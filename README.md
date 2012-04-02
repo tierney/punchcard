@@ -10,5 +10,5 @@ GPLv2
 
 ![linux](https://github.com/tierney/punchcard/raw/master/examples/linux.png)
 
-![SPDY-Spec](https://github.com/tierney/punchcard/blob/master/examples/SPDY-Specification.png)
+![SPDY-Spec](https://github.com/tierney/punchcard/raw/master/examples/SPDY-Specification.png)
 
